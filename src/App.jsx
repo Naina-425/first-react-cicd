@@ -9,7 +9,7 @@ function App() {
   return (
    
   <div>
-    <h1>My react app</h1>
+    <h1>My g-22 react app</h1>
     <div>Practising cicd pipeline</div>
   </div>
   )
